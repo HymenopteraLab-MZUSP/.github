@@ -28,3 +28,4 @@ Membros do laboratório: leiam as [regras de uso da organização](https://githu
 ## Contato
 
 Dra. Gabriela Procópio Camacho — gpcamacho@usp.br
+Dra. Kelli dos Santos Ramos - ksramos@usp.br
