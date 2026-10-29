@@ -16,8 +16,8 @@ Para filtrar: veja todos os repositórios de um [tipo](https://github.com/search
 
 ## Financiamento
 
-| Financiador | Processo | Modalidade | |Título | Vigência |
-| --- | --- | --- | --- |
+| Financiador | Processo | Modalidade | Título | Vigência |
+| --- | --- | --- | --- | --- |
 | Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP) | 2023/12809-0 | Jovem Pesquisador | Desvendando padrões ocultos: explorando a diversidade e o endemismo filogenético das formigas da Mata Atlântica por meio de dados genômicos | até 2029 |
 <!-- Acrescente as bolsas e auxílios dos estudantes (FAPESP, CAPES, CNPq) com número de processo. -->
 
